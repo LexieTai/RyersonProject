@@ -12,15 +12,19 @@ My goal is predicting the price of U.S. AirBnB rentals.
 Also find out the best performing model for predicting price.
 
 #Tentative stages
-├── data          
-|   └──AB_US_2020.csv
-|
-├── README.md
-|
+
+└── data          
+-------└──AB_US_2020.csv
+
+└── README.md
+
 └── AB_Capstone_notebook.ipynb
 
 
 #Tech Stack
--Python3 is the main language.
--Numpy, Pandas, matplotlib, seaborn, and sklearn are the main packages that were used.
--Jupyter Notebook is where the code is hosted.
+
+/Python3 is the main language.
+
+/Numpy, Pandas, matplotlib, seaborn, and sklearn are the main packages that were used.
+
+/Jupyter Notebook is where the code is hosted.
